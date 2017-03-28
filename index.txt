@@ -9,7 +9,14 @@
 <body>
 <h1>bonjour ggg</h1>
 <h2>fsqkjdhlkqsjl</h2>
-
+<table><td>
+	<th>
+		shs
+	</th>
+	<th>
+		sjjs
+	</th>
+</td><t</table>
 <p>hjddjjhdjkdknckdnck
 jdbcdsc,dc,cdsx
 jdsbcbdscdscd
